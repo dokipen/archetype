@@ -17,5 +17,6 @@
     "service": "./lib/service",
     "template": "./lib/template"
   },
+  "directories": { "lib": "./lib" },
   "repository": { "type": "git", "url": "http://github.com/jefftrudeau/archetype.git" }
 }
